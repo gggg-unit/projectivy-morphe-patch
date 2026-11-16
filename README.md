@@ -7,11 +7,13 @@ Morphe patch for Projectivy Launcher, maintained by **gggg-unit**.
 
 ## Use
 
-1. Add this source to Morphe, or import the `.mpp` file.
+1. Open **Add to Morphe** on Android and confirm adding the source, or import the `.mpp` file.
 2. Select an original [Projectivy APK](https://github.com/spocky/miproja1/releases).
 3. Apply **Unlock premium (structural)**.
 
 No version-number lock. Patch application and code checks passed on **4.71, 4.72 and 4.73**. Device testing is pending; future releases depend on compatible code structure.
+
+If the link does not open Morphe, add `https://github.com/gggg-unit/projectivy-morphe-patch` under **Sources → + → Remote**.
 
 ## Credits
 
